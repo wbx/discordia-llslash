@@ -1,6 +1,6 @@
 return {
     name = "wbx/discordia-llslash",
-    version = "2.0.0",
+    version = "2.1.0",
     description = "Low-level slash library for Discordia.",
     license = "MIT",
     dependencies = {
